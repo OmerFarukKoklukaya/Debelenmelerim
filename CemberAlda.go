@@ -1,4 +1,4 @@
-// kullanıcıdan belli bir x y ve yarı çap değeri alır ona göre çember çizen uygulama
+// kullanıcıdan belli bir x y ve yarı çap değeri alır ona göre çember çizer
 package main
 
 import (
